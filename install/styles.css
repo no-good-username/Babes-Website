@@ -1,0 +1,43 @@
+@font-face {
+    font-family: littleBaby;
+    src: url(LittleBaby.ttf);
+}
+
+
+.logoma{
+    height: 10em;
+    width: auto;
+    margin: auto;
+    margin-left: 0px;
+}
+
+.link{
+    background-color: #FF9F9F;
+}
+
+.linkhead{
+    color: #E97777;
+    font-weight: 500;
+    font-size: x-large;
+    font-family: littleBaby;
+}
+
+.divider{
+    border-right: 1px solid;
+}
+
+.container-fluid{
+    background-color: #F0DBDB;
+    align-items: center;
+    padding: 5% 15% 5% 18%;
+}
+
+.bcard{
+    margin-top: 10%;
+}
+
+.card{
+    background-color: #fefcf3db;
+    color: #e3aba3;
+}
+
