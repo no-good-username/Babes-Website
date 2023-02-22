@@ -16,7 +16,7 @@
 }
 
 .linkhead{
-    color: #E97777;
+    color: black;
     font-weight: 500;
     font-size: x-large;
     font-family: littleBaby;
@@ -35,7 +35,7 @@
 }
 
 .bcard{
-    margin-top: 10%;
+    margin-bottom: 10px;
 }
 
 .card{
@@ -47,4 +47,38 @@
     position: sticky;
     top: 0;
     z-index: 1;
+}
+
+h2{
+    font-family: littleBaby;
+    font-size: 2rem;
+    background-color: inherit;
+    color: black;
+    text-align: center;
+    height: 20%;
+    margin: 0 10% 5%;
+}
+
+#photoGallery{
+    background-color: #fb828297;
+}
+
+.car-img{
+    width: 20%;
+    height: 20%;
+    border-radius: 100%;
+}
+
+.cara{
+    text-align: center;
+}
+
+.car-but{
+    height: 30%;
+    background-color: inherit;
+    margin: 5% 5% 5%;
+}
+
+.car-but:active{
+    transform: none;
 }
